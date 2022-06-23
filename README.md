@@ -1,6 +1,12 @@
-# Getting Started 
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Additional Packages Installed
+
+- [styled-components](https://styled-components.com/) - CSS in JS
+- [husky](https://typicode.github.io/husky/), [lint-staged](github.com/okonet/lint-staged) - Auto lint staged files before git commit
+- [storybook](https://storybook.js.org/) - Component-based development environment
 
 ## Available Scripts
 
@@ -13,6 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `yarn storybook`
+
+Start stroybook locally.
 
 ### `yarn test`
 
