@@ -6,9 +6,7 @@ function App() {
     <AppContainer>
       <AppHeader>
         <AppLogo src={logo} alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+        <p>Testing again =</p>
         <AppLink
           href="https://reactjs.org"
           target="_blank"
